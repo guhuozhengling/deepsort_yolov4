@@ -1,0 +1,3 @@
+YOLOV4:
+  CFG: "yolov4.cfg"
+  WEIGHT: "yolov4.weights"
