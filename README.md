@@ -3,10 +3,10 @@
 ![](https://img.shields.io/static/v1?label=pytorch&message=>=0.4&color=<COLOR>)
 
 # Introduction
-An easy implement of MOT tracking algorithm deepsort with yolov4 by pytorch.
-**Almost all the code are from:**
-deepsort_pytorch:https://github.com/ZQPei/deep_sort_pytorch
-yolov4_pytorch:https://github.com/Tianxiaomo/pytorch-YOLOv4
+An easy implement of MOT tracking algorithm deepsort with yolov4 by pytorch.  
+**Almost all the code are from:**  
+[deepsort](https://github.com/ZQPei/deep_sort_pytorch)    
+[yolov4_pytorch](https://github.com/Tianxiaomo/pytorch-YOLOv4)  
 
 # Quick start
 - You need all extra file here:https://pan.baidu.com/s/1wlhwcl8Cx5pAFgYE4FnqCA  password:1pth
